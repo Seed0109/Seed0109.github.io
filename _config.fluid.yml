@@ -18,7 +18,7 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/fluid.png
+favicon: /img/favicon.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
@@ -944,7 +944,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: /img/bg.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -955,7 +955,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/bg.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -984,7 +984,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/bg.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -1001,7 +1001,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/bg.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
